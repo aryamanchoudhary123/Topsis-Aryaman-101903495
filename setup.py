@@ -1,4 +1,5 @@
 from distutils.core import setup
+import setuptools
 setup(
   name = 'Topsis-Aryaman-101903495',
   packages = ['Topsis-Aryaman-101903495'],
@@ -9,7 +10,7 @@ setup(
   author_email = 'aryaman.choudhary01@gmail.com',
   url = 'https://github.com/aryamanchoudhary123/Topsis-Aryaman-101903495',
   download_url = 'https://github.com/aryamanchoudhary123/Topsis-Aryaman-101903495/archive/v_01.tar.gz',
-  keywords = ['Topsis', 'Ranking',],  
+  keywords = ['Topsis', 'Ranking',],
   install_requires=[
           'pandas',
           'numpy',
